@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Toái Nguyệt Chương
+subtitle: 'Nhật ký lập trình viên theo con đường khởi nghiệp và đầu tư'
 description: ''
-keywords:
-author: John Doe
+keywords: 'code, investor, technology, analysis'
+author: Toái Nguyệt
 language: en
 timezone: ''
 
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: stun
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
