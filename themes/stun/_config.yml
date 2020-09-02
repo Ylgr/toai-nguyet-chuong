@@ -52,8 +52,8 @@ sougou_site_verification:
 menu:
   home: / || fas fa-home
   archives: /archives/ || fas fa-folder-open
-  # categories: /categories/ || fas fa-layer-group
-  # tags: /tags/ || fas fa-tags
+  categories: /categories/ || fas fa-layer-group
+  tags: /tags/ || fas fa-tags
   # You can add a secondary menu like follow.
   # xxx1: javascript:; || fa(s|r|l|d|b) fa-xxx
 
@@ -75,8 +75,8 @@ menu_settings:
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/icons/favicon-16x16.ico
-  medium: /images/icons/favicon-32x32.ico
+  small: /images/icons/favicon-16x16.png
+  medium: /images/icons/favicon-32x32.png
   # ! --------------------------------------------------
   # ! If you don't know the following, please ignore it.
   # ! --------------------------------------------------
