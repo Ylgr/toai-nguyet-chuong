@@ -75,13 +75,13 @@ menu_settings:
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/icons/favicon-16x16.png
-  medium: /images/icons/favicon-32x32.png
+  small: /images/icons/favicon-16x16.ico
+  medium: /images/icons/favicon-32x32.ico
   # ! --------------------------------------------------
   # ! If you don't know the following, please ignore it.
   # ! --------------------------------------------------
   # apple_touch_icon: /images/icons/apple-touch-icon.png
-  # safari_pinned_tab: /images/icons/stun-logo.svg
+  # safari_pinned_tab: /images/icons/tnc-logo.svg
   # msapplication: /images/icons/favicon-144x144.png
 
 # Progressive Web Apps
@@ -138,14 +138,14 @@ header:
   height: 80%
   # Background image of site header.
   bg_image:
-    enable: false
+    enable: true
     # In theme directory (source/images): /images/avatar.png
     # In site directory (source/uploads): /uploads/avatar.png
     # You can also use a link of image.
-    url:
+    url: /images/header-cover.png
   # Mask effect of the background image.
   mask:
-    enable: false
+    enable: true
     # Opacity of the mask (value: 0 ~ 1)
     opacity: 0.5
   nav:
@@ -286,16 +286,16 @@ author:
     # In theme directory (source/images): /images/avatar.png
     # In site directory (source/uploads): /uploads/avatar.png
     # You can also use a link of image.
-    url: /images/icons/stun-logo.svg
+    url: /images/toai-nguyet-avatar.png
     # If true, the avatar would be displayed in a circle.
-    rounded: false
+    rounded: true
     # Opacity of avatar (value: 0 ~ 1)
     opacity: 1
     # Mouse hover animation
     # Optional values: turn | shake
     animation: shake
   # Your favorite motto.
-  motto: hello world
+  motto: Toái Nguyệt
 
 # Social links
 # Value before `||` is the target link, value after `||` is the name of FontAwesome icon.
