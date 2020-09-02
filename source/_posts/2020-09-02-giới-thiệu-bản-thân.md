@@ -8,6 +8,7 @@ rating: 5
 **1. Về tác giả**
 
 Xin chào các bạn, lời đầu tiên để nói là chào mừng đến với Blog này. Xin được giới thiệu bản thân, mình là Toái Nguyệt tên đầy đủ là Nguyễn Việt Tú (biệt hiệu được hình thành từ cách chơi chữ tên Tú Nguyễn Việt -> Toái Nguyệt).
+<!-- more -->
 
 Sinh ra vào thời điểm sư tử bắt tay với nàng trinh nữ lúc đầu kỷ nguyên của thế hệ Z (ngày 23 tháng 8 năm 1997). Hiện mình đang là một Developer với tuổi nghề là 2 năm kinh nghiệm tập trung vào Back-end ngoài ra đã được bonus thêm 1 năm trong lĩnh vực Blockchain và Crypto.
 
