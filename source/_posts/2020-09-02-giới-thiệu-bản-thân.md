@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Giới thiệu bản thân
+title: Lời mở đầu
 date: 2020-09-02T14:03:25.518Z
 thumbnail: /images/uploads/d9i37dg-b52a0e4c-d03e-4eb3-99fb-2d4da0a4c649.png
 rating: 5
