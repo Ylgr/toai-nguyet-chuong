@@ -28,4 +28,6 @@ categories:
 
   Việc còn tùy ở đây chính là, không phải chính xác một người buộc phải trong cụ thể một phần nào đó của tứ đồ. Chúng ta hay được nghe đến chuyện những người làm bình thường bỗng dưng giàu có do có bất động sản hay có vàng, điều này không có gì lạ cả, luôn có cách để mỗi người chúng ta chạm đến điểm cuối cùng của tứ đồ theo một cách nào đó. Và những người như thế thường ở một cấp bậc quan trọng trong lĩnh vực đầu tư đó là cấp bậc nhà đầu tư dài hơi.
 
-# 3. Hành trang của tôi
+# 3. Dấu hiệu hiện hữu
+
+  Mỗi người chúng ta đều những điểm mạnh, kiến thức, kỹ năng, tính cách để trở lên thành công ở một lĩnh vực nào đó mà đôi khi lại tủi tại sao một con người làm thuê càng thành công thì thời gian của họ càng ít.
