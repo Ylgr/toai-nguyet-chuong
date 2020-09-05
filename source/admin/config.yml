@@ -7,7 +7,7 @@ publish_mode: editorial_workflow
 
 # These lines should *not* be indented
 media_folder: 'source/images/uploads'
-public_folder: 'images/uploads'
+public_folder: '/images/uploads'
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog

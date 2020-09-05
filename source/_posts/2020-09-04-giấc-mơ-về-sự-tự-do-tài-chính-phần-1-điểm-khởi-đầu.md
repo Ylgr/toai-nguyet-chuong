@@ -2,7 +2,7 @@
 layout: blog
 title: "Giấc mơ về sự tự do tài chính - Phần 1: Những dấu hiệu"
 date: 2020-09-04T09:32:58.589Z
-top_image: images/uploads/finance-free-p1.png
+top_image: /images/uploads/finance-free-p1.png
 tags:
   - tự do tài chính
   - làm công
@@ -24,7 +24,7 @@ categories:
 
 # 2. Kim tứ đồ và phương hướng tư duy
 
-![Kim tứ đồ](images/uploads/30871-2c59be1cafd45d635c04257c50699a5a-ohaytv.jpg "Kim tứ đồ")
+![Kim tứ đồ](/images/uploads/30871-2c59be1cafd45d635c04257c50699a5a-ohaytv.jpg "Kim tứ đồ")
 
   Để định hướng giá trị tài chính cá nhân, chúng ta sẽ cùng tìm hiểu cách thức hoạt động của một công cụ mang tên "Kim tứ đồ". Đó là mô hình gồm 4 nhóm như trên hình và mũi tên chính là mô thức quen thuộc để bắt đầu. Mỗi vị trí trong tứ đồ đòi hỏi các kỹ năng rất khác nhau và để chuyển từ vị trí này sang vị trí kia sẽ cần rất nhiều kiến thức, kỹ năng và bản lĩnh mới đạt được.
 
