@@ -4,7 +4,9 @@ title: "Giấc mơ về sự tự do tài chính - Phần 1: Những dấu hiệ
 date: 2020-09-04T09:32:58.589Z
 top_image: images/uploads/ddjg33c-bdb7ad40-a47a-400e-b9cf-05383f5d60da.jpg
 tags:
-  - tự do
+  - tự do tài chính
+  - làm công
+  - kim tứ đồ
 categories:
   - Khởi nghiệp
 ---
@@ -28,6 +30,12 @@ categories:
 
   Việc còn tùy ở đây chính là, không phải chính xác một người buộc phải trong cụ thể một phần nào đó của tứ đồ. Chúng ta hay được nghe đến chuyện những người làm bình thường bỗng dưng giàu có do có bất động sản hay có vàng, điều này không có gì lạ cả, luôn có cách để mỗi người chúng ta chạm đến điểm cuối cùng của tứ đồ theo một cách nào đó. Và những người như thế thường ở một cấp bậc quan trọng trong lĩnh vực đầu tư đó là cấp bậc nhà đầu tư dài hơi.
 
-# 3. Dấu hiệu hiện hữu
+# 3. Dấu hiệu
 
-  Mỗi người chúng ta đều những điểm mạnh, kiến thức, kỹ năng, tính cách để trở lên thành công ở một lĩnh vực nào đó mà đôi khi lại tủi tại sao một con người làm thuê càng thành công thì thời gian của họ càng ít.
+  Bạn có bao giờ nhận được một lời mời gọi từ sâu thẳm trong tâm mình là muốn được thử thách bản thân giống tôi không? Chúng ta, ai cũng như ai sâu thẳm muốn chạm đến một đỉnh cao tham vọng. Chúng ta đều mơ ước được giàu có nhưng không phải ai cũng dám dấn thân để thực hiện. Theo một góc nhìn lý trí, nếu không còn gì để mất thì đâu có gì nguy hiểm. Chúng ta nhìn chung sợ thay đổi, sợ mất công việc cho chúng ta đủ mức lương mà ta không thể nghỉ, sợ mất sĩ diện với bạn bè cùng những người thân và cũng như chúng ta sợ chúng ta khác người. 
+
+  Trở thành một nhà đầu tư, có một khối lượng tài sản tạo cho chúng ta thu nhập thụ động là mong ước của nhiều người. Tuy nhiên việc này đôi khi lại quá khó để thực hiện vì tầm nhìn của chúng ta dễ bị thu hẹp bởi những việc xảy ra trước mắt. Ai mà chả sợ mất cơ chứ, nghĩ đến chuyện một ngày mình nằm nhà thất nghiệp ngồi thơ thẩn thấy cũng hãn. Nhưng mà nghĩ lại lúc đó ta nhìn vào dòng người bận rộn, chen lấn cố cho kịp giờ làm có khi ta lại cảm thấy vui vì điều đó. Lúc đó ta không còn cảm thấy bị cầm tù, phải cố làm những việc mà ta không ham muốn cho lắm và cứ thế lặp đi lặp lại, cuối ngày mỏi nhoài.
+
+  "Tôi muốn được tự do tài chính để được toàn quyền làm chủ cuộc đời mình! Xin hãy nói cho tôi biết tôi phải làm gì?". Sẽ không có một cách là cụ thể cho tất cả mọi người làm được điều này. Nhưng luôn có một vài phương thức chung để một người nào đó có thể men theo và tìm được đến vạch đích. Đầu tiên, chúng ta rất khác nhau từ tích cách văn hóa đến môi trường phát triển. Nhưng để đến được cái đích thực sự của cuộc đời, đầu tiên là hãy chậm rãi từng bước. Điều này không có nghĩa là cứ nhàn hạ làm công việc thường ngày. Hãy dành thời gian để trước hết hiểu rõ bản thân gì? Bạn là ngọn núi bạn sẽ không cần phụ thuộc nhiều vào người khác để tiến bộ, thứ bạn cần là tự vận động và bạn sẽ trở thành số một trong đó. Bạn là con đại bàng, hãy vung đôi cánh mình hành động để nói với thế gian bạn là ai. Bạn là dòng nước hãy tận dụng khả năng học hỏi và thích ứng nhanh của mình và mọi người không thể không biết đến bạn.
+
+  Và tất nhiên, nói tích cực thì dễ. Vốn dĩ đời không như là mơ, phần tiếp theo của loạt bài này sẽ nói về mặt tối mà chúng ta thường bỏ qua, không nhìn thấy hay không dám nhìn.
