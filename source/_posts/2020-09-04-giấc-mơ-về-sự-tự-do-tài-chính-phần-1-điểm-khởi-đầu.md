@@ -2,7 +2,7 @@
 layout: blog
 title: "Giấc mơ về sự tự do tài chính - Phần 1: Những dấu hiệu"
 date: 2020-09-04T09:32:58.589Z
-top_image: images/uploads/ddjg33c-bdb7ad40-a47a-400e-b9cf-05383f5d60da.jpg
+top_image: images/uploads/finance-free-p1.png
 tags:
   - tự do tài chính
   - làm công
