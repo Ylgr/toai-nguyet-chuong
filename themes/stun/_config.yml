@@ -534,8 +534,8 @@ livere:
 # Disqus
 # See: https://disqus.com/
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: toai-nguyet-chuong
   count: true
 
 # Utterances
@@ -586,7 +586,7 @@ busuanzi:
 
 # Google analytics ID
 # See: https://analytics.google.com/
-google_analytics:
+google_analytics: UA-177337579-1
 
 # Baidu analytics ID
 # See: https://tongji.baidu.com/

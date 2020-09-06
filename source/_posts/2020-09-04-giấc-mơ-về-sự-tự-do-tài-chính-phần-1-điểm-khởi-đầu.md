@@ -12,7 +12,7 @@ categories:
 ---
 # **1. Chuyện này bình thường mà**
 
-  Những dòng này được viết vào một buổi chiều thứ 6 gần thời điểm tan tầm, chúng ta thường có niềm vui mãnh liệt dần theo chuyển động của sự kiện kết thúc ngày này vì tới đây thứ 7 và chủ nhật tư do. Hòa cùng niềm vui đó, ta thấy mình phóng khoáng hơn và sẵn sàng nuông chiều cho bản thân mình. Nhiều khi cũng nghĩ tại sao chỉ có thời điểm này mình mới có thể nhỉ? Đến chủ nhật cảm xúc này cũng tụt dần theo chiều chuyển động của mặt trời từ trưa đến tối, trời tối và ta lại bận rộn quay lại nhịp điệu bận rộn của cuộc sống thường nhật. Ôi ngày chủ nhật! Bóng tối qua đi và thứ 2 lại đến, rục rịch quay lại công việc cùng với những con người khác đồng cảnh ngộ mà chúng ta gọi nhau là đồng nghiệp. Từ thứ 2 đến thứ 6 đến khi niềm vui đó quay trở lại, cuộc sống mà.
+  Những dòng này được viết vào một buổi chiều thứ 6 gần thời điểm tan tầm, chúng ta thường có niềm vui mãnh liệt dần theo chuyển động của sự kiện kết thúc ngày này vì tới đây thứ 7 và chủ nhật tự do. Hòa cùng niềm vui đó, ta thấy mình phóng khoáng hơn và sẵn sàng nuông chiều cho bản thân mình. Nhiều khi cũng nghĩ tại sao chỉ có thời điểm này mình mới có thể nhỉ? Đến chủ nhật cảm xúc này cũng tụt dần theo chiều chuyển động của mặt trời từ trưa đến tối, trời tối và ta lại bận rộn quay lại nhịp điệu bận rộn của cuộc sống thường nhật. Ôi ngày chủ nhật! Bóng tối qua đi và thứ 2 lại đến, rục rịch quay lại công việc cùng với những con người khác đồng cảnh ngộ mà chúng ta gọi nhau là đồng nghiệp. Từ thứ 2 đến thứ 6 đến khi niềm vui đó quay trở lại, cuộc sống mà.
 
 <!-- more -->
 
