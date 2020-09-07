@@ -39,7 +39,7 @@ categories:
 
 Giới  thiệu tới các bạn một channel mà tôi yêu thích trong lĩnh vực nghiên cứu đã giải thích quá  trình này:
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WSKi8HfcxEk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # 3. ﻿Cuộc đời trừng trị những con người chăm chỉ (nhưng thiếu kiến thức tài chính)
 
@@ -47,4 +47,4 @@ Giới  thiệu tới các bạn một channel mà tôi yêu thích trong lĩnh 
 
   Ở góc độ công ty và nhà đầu tư, theo một khía cạnh khác họ mua được những vật dụng đắt tiền khai báo thành tài sản công ty để được giảm thuế. Họ được thế chấp bất động sản, được vay với ưu đãi lớn hơn để được lợi khi đầu tư. Tất nhiên những điều trên chỉ là khoản được cộng cho quyết định của họ. Họ tạo ra doanh nghiệp, tạo ra thêm hàng trăm, hàng ngàn việc làm mới cho cộng đồng. Tài chính của họ đủ nhiều để dễ dàng chi ra một ít cho các hoạt động từ thiện và phát triển quốc gia, cuộc đời này càng biết ơn họ nhiều hơn. Khi doanh nghiệp, khoản đầu tư của họ càng phát triển, thu nhập từ đó của họ càng lớn mà thời gian phải quan tâm đến nó càng ít khiến họ có nhiều thời gian cho gia đình và bản thân hơn. Đến cuối đời, họ có cả một sự nghiệp to lớn để lại cho thế hệ sau cùng những bài học danh giá của người giàu.
 
-# 4. Con đường hầm
+  "Biết là trở thành một nhân tố của bên phải tứ đồ là một điều kiện cần để có được sự tự do tài chính rồi, nhưng tôi không biết bắt đầu từ đâu cả?". Câu chuyện này sẽ được chúng ta nói tiếp ở chương 3.
