@@ -39,10 +39,11 @@ categories:
 
 Giới  thiệu tới các bạn một channel mà tôi yêu thích trong lĩnh vực nghiên cứu đã giải thích quá  trình này:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WSKi8HfcxEk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# 3. Tê liệt
 
+# 3. ﻿Cuộc đời trừng trị những con người chăm chỉ (nhưng thiếu kiến thức tài chính)
+
+  Có một nghịch lý đang tồn tại, khi lương của ta càng cao, những khoản thuế ta cần đóng càng lớn đòng thời ta càng trở lên bận rộn ít thời gian cho bản thân và gia đình hơn. Giờ bạn có gia đình với những đứa con,ngôi nhà dần chật chội có lẽ nên chuyển qua ngôi nhà to hơn. Để tập trung khả năng làm việc, bạn cần một chiếc xe phục vụ việc này. Bạn bè hay người thân có chuyện vui buồn, dưới danh nghĩa một người thành công bạn cũng đỡ họ một phần trách nhiệm. Và còn cả trăm các khoản chi tiêu khác nữa chứ. Cứ như bao gánh nặng tài chính đều ở trên vai bạn đòi hỏi bạn phải trụ vững trên đôi chân mình. Rồi khi bạn không còn khả năng làm việc, cởi bỏ phần nào gánh nặng, thời gian của bạn khi đó cũng không còn nhiều. Cả cuộc đời làm lụng của mình bạn để lại cho những đứa con các khoản phí phải gánh chịu của ngôi nhà bạn ở hay chiếc xe bạn đi (vốn dĩ khoản hưu trí của bạn nếu có sẽ không đủ chi chả khoản này) và đời chúng rồi cũng như đời bạn, cố gắng nhiều hơn để được hưởng ít hơn.
 
 
 # 4. Con đường hầm
