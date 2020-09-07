@@ -27,7 +27,9 @@ categories:
 
   Khủng hoảng kinh tế, nói cách khác là sự kiện phân bổ lại tài chính thế giới theo một quy mô lớn. Nơi mà tiền chảy từ túi người nghèo vào túi người giàu hay nói một cách chính xác hơn là từ người không biết điều gì đang xảy ra vào người nắm được tình hình và tận dụng cơ hội đó. Đó là một câu chuyện buồn khi phần đa chúng ta không được dạy điều này. Chúng ta biết khủng hoảng đến thì hàng hóa sẽ lên giá nhưng chúng ta không hề biết là đồng tiền mất giá vì ở nơi nào đó nó được in thêm ồ ạt và lưu động ở ngay trên đầu mình.
 
-  Hiện thực phũ phàng, nếu ta thuộc phía bên trái tứ đồ (làm thuê và làm tư) ta phải trả giá cho sự kiện này còn bên phải tứ đồ (làm chủ và đầu tư) lại được trả tiền vì sự mạo hiểm. Nghĩ mà xem, tiền của họ lưu động cơ mà, nghĩa là khi tiền càng nhiều, các sản phẩm, khoản đầu tư của họ được sử dụng càng mạnh thì không phải đổ vào túi họ thì túi ai?
+  Hiện thực phũ phàng, nếu ta thuộc phía bên trái tứ đồ (làm thuê và làm tư) ta phải trả giá cho sự kiện này còn bên phải tứ đồ (làm chủ và đầu tư) lại được trả tiền vì sự mạo hiểm. Nghĩ mà xem, tiền của họ lưu động cơ mà, nghĩa là khi tiền càng nhiều, các sản phẩm, khoản đầu tư của họ được sử dụng càng mạnh thì không phải đổ vào túi họ thì túi ai? (đơn giản nhất là giá đất, giá vàng tăng)
+
+  "Nhưng mà không phải các ông chủ hay nhà đầu tư đó mà vào sai lĩnh vực thì họ còn chết nặng hơn những người làm thuê hay làm tư sao?". Tất nhiên rồi, nhưng họ đủ lớn để không cần tất tay. Đơn giản là họ có cả trăm tỉ thì khoản này tốn của họ vài tỉ cũng ko làm họ suy sụp được, còn người làm công và làm tư thì đây sẽ là cả sự nghiệp. "Tôi mà có nhiều tiền thế, tôi cũng không sợ chuyện này!" Thật chứ? Chúng ta sẽ đề cập lại chuyện này ở một chương khác nhé.
 
 # 2. Ai cho tôi an toàn
 
