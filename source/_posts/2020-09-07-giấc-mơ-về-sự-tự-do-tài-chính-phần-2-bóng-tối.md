@@ -37,6 +37,10 @@ categories:
 
   Ổn định việc làm có thể tốt trong nhiều trường hợp nhưng nhìn chung việc này cực kỳ mong manh vì một ngày đẹp trời, bằng một tai nạn bất ngờ ta có thể không chết nhưng mất toàn bộ sự nghiệp của mình. Một tai nạn giao thông có thể kiến tôi tổn thương vùng não logic và không còn khả năng code nữa thì sao? Mà kể cả có may mắn vì những điều đó không bao giờ tới đi thì không phải đợt covid-19 đang hoành hành, có bao nhiêu người không mắc bệnh cũng chết vì các hoạt động du lịch bị cấm khiến bao hoạt động kinh doanh đi vào đường cụt? Nhà hàng sa thải nhân viên phải bán nguyên liệu để tồn tại rồi cô bán dừa, anh xích lô,... họ giờ đang ở chốn nào? Nhưng công việc của tôi là công việc trí tuệ, có thể làm việc từ xa! 
 
+Giới  thiệu tới các bạn một channel mà tôi yêu thích trong lĩnh vực nghiên cứu đã giải thích quá  trình này.
+
+<https://youtu.be/WSKi8HfcxEk>
+
 # 3. Tê liệt
 
 # 4. Con đường hầm
