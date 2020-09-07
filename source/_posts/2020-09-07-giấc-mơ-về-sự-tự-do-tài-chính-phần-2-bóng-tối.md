@@ -31,8 +31,12 @@ categories:
 
   "Nhưng mà không phải các ông chủ hay nhà đầu tư đó mà vào sai lĩnh vực thì họ còn chết nặng hơn những người làm thuê hay làm tư sao?". Tất nhiên rồi, nhưng họ đủ lớn để không cần tất tay. Đơn giản là họ có cả trăm tỉ thì khoản này tốn của họ vài tỉ cũng ko làm họ suy sụp được, còn người làm công và làm tư thì đây sẽ là cả sự nghiệp. "Tôi mà có nhiều tiền thế, tôi cũng không sợ chuyện này!" Thật chứ? Chúng ta sẽ đề cập lại chuyện này ở một chương khác nhé.
 
-# 2. Ai cho tôi an toàn
+# 2. Ai cho tôi ổn định
 
-# 3. Sự tê liệt
+  Khi nhắc đến cụm từ ổn định thì ta cần phân biệt giữa hai khái niệm là ổn định tài chính và ổn định việc làm. Ổn định mà phần đa chúng ta mặc định được coi là ổn định việc làm, ở trạng thái này ta bỏ qua nỗi bận tâm về công việc, nhận lương thưởng đều đặn với hi vọng một ngày sẽ giàu có (xem thêm ở chương 1). Còn ổn định tài chính là một quan niệm rộng hơn, ở trạng thái này các khoản tiền thu nhập thụ động mang lại sẽ tự chi trả cho các khoản phí thưởng niên phục vụ nhu cầu sống cá nhân.
+
+  Ổn định việc làm có thể tốt trong nhiều trường hợp nhưng nhìn chung việc này cực kỳ mong manh vì một ngày đẹp trời, bằng một tai nạn bất ngờ ta có thể không chết nhưng mất toàn bộ sự nghiệp của mình. Một tai nạn giao thông có thể kiến tôi tổn thương vùng não logic và không còn khả năng code nữa thì sao? Mà kể cả có may mắn vì những điều đó không bao giờ tới đi thì không phải đợt covid-19 đang hoành hành, có bao nhiêu người không mắc bệnh cũng chết vì các hoạt động du lịch bị cấm khiến bao hoạt động kinh doanh đi vào đường cụt? Nhà hàng sa thải nhân viên phải bán nguyên liệu để tồn tại rồi cô bán dừa, anh xích lô,... họ giờ đang ở chốn nào? Nhưng công việc của tôi là công việc trí tuệ, có thể làm việc từ xa! 
+
+# 3. Tê liệt
 
 # 4. Con đường hầm
