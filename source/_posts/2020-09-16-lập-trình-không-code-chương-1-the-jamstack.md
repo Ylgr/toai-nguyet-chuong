@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Lập trình không code - Chương 1: JAMstack"
+title: "Lập trình không code - Phần 1: JAMstack"
 date: 2020-09-16T14:05:28.200Z
 top_image: /images/uploads/jam-stack-2700x740.png
 tags:
