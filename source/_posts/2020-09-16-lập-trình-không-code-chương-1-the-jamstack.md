@@ -62,6 +62,22 @@ Sở hữu một bộ plugin khổng lồ bao gồm 1160 plugin mặc dù bộ t
 
 ## 2.3. Hexo - Đơn giản, mạnh mẽ cho một Blogger
 
-Vẻ đẹp của Hexo đến từ sự đơn giản. Nói đùa thế thôi chứ bản thân Hexo sử dụng NodeJS, một ngôn ngữ khá quen thuộc và phổ biến trong giới lập trình hiện nay, đồng thời rất dễ tìm cho mình một Hosting hay tận dụng được cả núi thư viện của cộng đồng npm nữa chứ. Một khía cạnh khác cần lưu ý là Hexo tập trung vào lĩnh vực Blog nên bạn muốn một web thương mại với Hexo, chúc bạn may mắn tìm được theme. Ngoài ra hệ sinh thái của Hexo có rất nhiều theme đẹp và plugin mạnh.
+Vẻ đẹp của Hexo đến từ sự đơn giản. Nói đùa thế thôi chứ bản thân Hexo sử dụng NodeJS, một ngôn ngữ khá quen thuộc và phổ biến trong giới lập trình hiện nay, đồng thời rất dễ tìm cho mình một Hosting hay tận dụng được cả núi thư viện của cộng đồng npm nữa chứ. Một khía cạnh khác cần lưu ý là Hexo tập trung vào lĩnh vực Blog nên bạn muốn một web thương mại với Hexo, chúc bạn may mắn tìm được theme vừa ý. Ngoài ra hệ sinh thái của Hexo có rất nhiều theme đẹp và plugin mạnh.
 
 Điểm yếu lớn nhất của Hexo đó là cộng đồng phát triển phần đa là người Trung Quốc, các tài liệu về theme hay plugin nhiều khi không tìm được tiếng Anh gây khó khăn trong quá trình phát triển.
+
+Nhân tiện Blog này cũng đã được dựng bằng Hexo.
+
+# 3. Content management system
+
+![content management system](/images/uploads/headless-cms.png "content management system")
+
+Nếu như coi SSG là một file pdf chứa nội dung cần truyền tải thì CMS chính là trình soạn thảo của file pdf đó. Ở thế giới này cũng đa dạng giống loài.
+
+## 3.1. Netlify CMS
+
+Netlify CMS sẽ là cái tên đầu tiên được nêu lên vì nó hỗ trợ đủ để cho những người không cần kiến thức về kỹ thuật cũng có thể sử dụng được. Bản thân netlify cũng cung cấp sẵn hosting và domain cho người đùng, tất của những gì cần thực hiện là đẩy code SSG lên github, setting bố cục bài viết rồi đẩy lên netlify là có thể sử dụng được không cần thêm dịch vụ hosting nào.
+
+## 3.2. Strapi (researching)
+
+## 3.3. TinaCMS (researching)
