@@ -10,11 +10,15 @@ tags:
 categories:
   - Nhận thức
 ---
+*Lời nói đầu*
+
+Trong seri Giấc mơ về tự do tài chính, nội dung sẽ xoay quanh nhận thức của mình về những điều đang xảy ra xung quanh mình để từ đó xác định được vị trí của mình trước khi xác định điểm đến và con đường đi.
+
+<!-- more -->
+
 # **1. Chuyện này bình thường mà**
 
   Những dòng này được viết vào một buổi chiều thứ 6 gần thời điểm tan tầm, chúng ta thường có niềm vui mãnh liệt dần theo chuyển động của sự kiện kết thúc ngày này vì tới đây thứ 7 và chủ nhật tự do. Hòa cùng niềm vui đó, ta thấy mình phóng khoáng hơn và sẵn sàng nuông chiều cho bản thân mình. Nhiều khi cũng nghĩ tại sao chỉ có thời điểm này mình mới có thể nhỉ? Đến chủ nhật cảm xúc này cũng tụt dần theo chiều chuyển động của mặt trời từ trưa đến tối, trời tối và ta lại bận rộn quay lại nhịp điệu bận rộn của cuộc sống thường nhật. Ôi ngày chủ nhật! Bóng tối qua đi và thứ 2 lại đến, rục rịch quay lại công việc cùng với những con người khác đồng cảnh ngộ mà chúng ta gọi nhau là đồng nghiệp. Từ thứ 2 đến thứ 6 đến khi niềm vui đó quay trở lại, cuộc sống mà.
-
-<!-- more -->
 
   Hình như có vấn đề trong cách suy nghĩ, sao lại quy đây là điều hiển nhiên mà cuộc sống hoạt động được nhỉ? Khi mà mình chọn đổ lỗi cho cuộc sống thì nghĩa là đã kỳ vọng cuộc sống phải thay đổi để trở lên đúng và điều này liệu có khả thi không nhỉ? Được chứ, chỉ cần sếp thông báo từ nay anh chị không cần đi làm nữa là được rồi.
 
