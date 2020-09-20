@@ -4,9 +4,9 @@ title: "Giấc mơ về sự tự do tài chính - Phần 1: Những dấu hiệ
 date: 2020-09-04T09:32:58.589Z
 top_image: /images/uploads/finance-free-p1.png
 tags:
-  - tự do tài chính
   - làm công
   - kim tứ đồ
+  - dòng tiền
 categories:
   - Nhận thức
 ---
