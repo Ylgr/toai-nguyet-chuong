@@ -5,7 +5,8 @@ date: 2020-09-07T11:18:24.602Z
 top_image: /images/uploads/behind_the_red_curtain_by_nanomortis_db4jme0.png
 tags:
   - quan điểm
-  - blockchain
+  - ổn định
+  - zero-sum game
 categories:
   - Nhận thức
 ---
