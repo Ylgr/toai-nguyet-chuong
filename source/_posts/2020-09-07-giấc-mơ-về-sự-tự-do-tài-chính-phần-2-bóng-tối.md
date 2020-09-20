@@ -7,7 +7,7 @@ tags:
   - quan điểm
   - blockchain
 categories:
-  - Đầu tư
+  - Nhận thức
 ---
 # 1. Đó là một câu chuyện dài
 
