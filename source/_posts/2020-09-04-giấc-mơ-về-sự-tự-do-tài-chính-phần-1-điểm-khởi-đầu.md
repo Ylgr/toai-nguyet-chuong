@@ -8,7 +8,7 @@ tags:
   - làm công
   - kim tứ đồ
 categories:
-  - Khởi nghiệp
+  - Nhận thức
 ---
 # **1. Chuyện này bình thường mà**
 
