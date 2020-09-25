@@ -16,7 +16,7 @@ categories:
 
 <!-- more -->
 
-  Câu chuyện chưa dừng lại ở đó, người tiêu dùng cũng không phải là những người khờ, họ nhận thức được những đồng tiền tiêu dùng của mình đang dần một nhẹ và mỏng đi
+  Câu chuyện chưa dừng lại ở đó, người tiêu dùng cũng không phải là những người khờ, họ nhận thức được những đồng tiền tiêu dùng của mình đang dần một nhẹ và mỏng đi nên đã tích trữ những đồng tiền còn nhiều hàm lượng vàng bạc nhất và chỉ sử dụng những đồng tiền bị cạo xén. Từ đó trong thị trường, những đồng tiền tốt mất đi và bị thay thế bởi những đồng tiền xấu.
 
 # 2. Tại sao ta sống?
 
