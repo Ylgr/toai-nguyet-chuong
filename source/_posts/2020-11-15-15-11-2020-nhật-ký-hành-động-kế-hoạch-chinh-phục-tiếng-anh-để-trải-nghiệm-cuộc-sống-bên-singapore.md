@@ -10,9 +10,9 @@ categories:
 ---
 # Đôi điều muốn nói
 
-Các bạn của tôi ơi, vào thời điểm tôi viết bài viết này là thời điểm cuộc sống hằng ngày tôi vướng vào một vòng lặp luẩn quẩn trong khuân khổ vòng tròn thoải mái của mình. 
+Các bạn của tôi ơi, vào thời điểm tôi viết bài viết này là thời điểm cuộc sống hằng ngày tôi vướng vào một vòng lặp luẩn quẩn trong khuân khổ vòng tròn thoải mái của mình. Đây sẽ là một bài viết ngắn gọn gửi gắm tâm sự của tôi ở thời điểm hiện tại.
 
-*Bạn cũng biết là bạn và tôi, ai cũng có những giấc mơ, những hoài bão nhưng tại sao mà chúng ta chưa đối mặt với nó? Nếu giờ sống trong cuộc đời này, ta chỉ có một nhiệm vụ để làm thì mọi chuyện sẽ tốt hơn biết bao. Đồng ý rằng cuộc đời này có lắm trắc trở, đời vốn không như là mơ mà thêm vào đó ta cũng biết rằng mình có thể làm được cái gì đó tốt đẹp hơn cho hiện tại và hướng đến một ngày mai tươi sáng hơn. Một ngày mai, khi ta không còn trên cõi đời này nữa thì ta sẽ nuối tiếc điều gì? Ta muốn thấy điều gì trong đám tang của chính mình? Và tôi là ai trong cuộc đời này?*
+*Chắn hẳn là bạn cũng đã biết là bạn và tôi, ai cũng có những giấc mơ, những hoài bão chỉ có điều là chúng ta thực sự dám đối mặt với nó để giải phóng bản thân. Nếu giờ sống trong cuộc đời này, ta chỉ có một nhiệm vụ để làm thì mọi chuyện sẽ tốt hơn biết bao. Đồng ý rằng cuộc đời này có lắm trắc trở, đời vốn không như là mơ mà thêm vào đó ta cũng biết rằng mình có thể làm được cái gì đó tốt đẹp hơn cho hiện tại và hướng đến một ngày mai tươi sáng hơn. Một ngày mai, khi ta không còn trên cõi đời này nữa thì ta sẽ nuối tiếc điều gì? Ta muốn thấy điều gì trong đám tang của chính mình? Và tôi là ai trong cuộc đời này?*
 
 <!-- more -->
 
