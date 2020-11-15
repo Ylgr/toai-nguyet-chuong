@@ -1,0 +1,22 @@
+---
+layout: blog
+title: "15/11/2020 - Nhật ký hành động: Kế hoạch chinh phục tiếng Anh để trải
+  nghiệm cuộc sống bên Singapore"
+date: 2020-11-15T11:16:34.236Z
+top_image: /images/uploads/note1.png
+tags:
+  - nhật ký
+  - singapore
+  - kế hoạch
+categories:
+  - Nhật ký
+---
+# 1. Đôi điều muốn nói
+
+Các bạn của tôi ơi, vào thời điểm tôi viết bài viết này là thời điểm cuộc sống hằng ngày tôi vướng vào một vòng lặp luẩn quẩn trong khuân khổ vòng tròn thoải mái của mình. 
+
+*Bạn cũng biết là bạn và tôi, ai cũng có những giấc mơ, những hoài bão nhưng tại sao mà chúng ta chưa đối mặt với nó? Nếu giờ sống trong cuộc đời này, ta chỉ có một nhiệm vụ để làm thì mọi chuyện sẽ tốt hơn biết bao. Đồng ý rằng cuộc đời này có lắm trắc trở, đời vốn không như là mơ mà thêm vào đó ta cũng biết rằng mình có thể làm được cái gì đó tốt đẹp hơn cho hiện tại và hướng đến một ngày mai tươi sáng hơn. Một ngày mai, khi ta không còn trên cõi đời này nữa thì ta sẽ nuối tiếc điều gì? Ta muốn thấy điều gì trong đám tang của chính mình? Và tôi là ai trong cuộc đời này?*
+
+<!-- more -->
+
+Ở tình huống hiện tại tôi không thỏa mãn tình hình tài chính và công việc của tôi nhưng tôi chưa đủ khả năng và nỗ lực để kéo tôi đến vị trí mà tôi muốn. Tham gia vào một nhóm Startup, tôi nhận ra bản thân mình hóa ra trước giờ vẫn ngộ nhận mình là biết tuốt. Bạn cứ nghĩ một lập trình viên sẽ có cuộc sống khá thoải mái với thu nhập của mình? Tôi đồng ý, cho đến khi nhận ra cái mức lương ở Việt Nam hiện tại với 20 triệu cho một đứa mới hơn 2 năm kinh nghiệm của tôi nó nhỏ bé chừng nào. Đúng rồi đó, tôi giật mình khi thấy lương cả tháng của mình không bằng chi phí để mượn danh nghĩa của một channel trên youtube mới hơn 100k sub để có một quảng cáo cho một thương hiệu chỉ có tầm 10s ở trong một vài video tới họ đăng kèm 1 vài bài post nho nhỏ trên fanpage facebook. Tôi cảm thấy nổi loạn @!$#%@#.
