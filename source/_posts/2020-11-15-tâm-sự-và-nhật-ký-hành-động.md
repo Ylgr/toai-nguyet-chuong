@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Tâm sự với mọi người và series mới, nhật ký hành động
+title: Tâm sự và nhật ký hành động
 date: 2020-11-15T11:16:34.236Z
 top_image: /images/uploads/death_within_a_breath_by_nanomortis_d8wvbpp-fullview.jpg
 tags:
