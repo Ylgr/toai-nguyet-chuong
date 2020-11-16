@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Nhật ký hành động 1: Mục tiêu trải nghiệm cuộc sống bên Singapore"
+title: "Nhật ký hành động 1: Thoát khỏi vòng rối loạn luẩn quẩn trong tâm trí"
 date: 2020-11-15T19:09:30.071Z
 top_image: /images/uploads/note1.png
 tags:
@@ -27,4 +27,18 @@ Hắn biết mình kém Tiếng Anh, không phải là ở kỹ năng đọc hi�
 
 *Từ khi nhận lời dụ dỗ đó, mình đã thể hiện ra điểm yếu của bản thân có chỉ số EQ khá thấp. Có điều gì đó sai sai với mình? Sao mình lại muốn máy móc chuyên biệt hóa bản thân trong khi biết 1 ngày nào đó không xa, năng lực này sẽ bị AI thay thế nhỉ?*
 
-Hắn rằng cuộc sống của mình đang bế tắc và sắp tắc hẳn nếu hắn tiếp tục sống thế. Hắn biết cuộc đời vốn dĩ công bằng nhưng không hề bình đẳng. Đúng! Hắn luôn muốn hơn người khác. Trấn tĩnh được bản thân, hắn quyết định viết lên bản kế hoạch cứu vãn cuộc đời hắn theo cách mà hắn biết về cách thế giới này hoạt động
+Hắn rằng cuộc sống của mình đang bế tắc và sắp tắc hẳn nếu hắn tiếp tục sống thế. Hắn biết cuộc đời vốn dĩ công bằng nhưng không hề bình đẳng. Đúng! Hắn luôn muốn hơn người khác. Trấn tĩnh được bản thân, hắn quyết định viết lên bản kế hoạch cứu vãn cuộc đời hắn theo cách mà hắn biết về cách thế giới này hoạt động:
+
+![Bản phân tích](/images/uploads/plant-singpore.png "Bản phân tích")
+
+Tốt quá rồi! Giờ thì đã có 5 con đường trước mắt hắn, hắn cảm thấy nhẹ nhàng hẳn. Giờ thì việc còn lại của hắn là chọn lấy 1 con đường và tập trung 1000% vào đó thôi.
+
+1. Chấp nhận phụ thuộc vào đội ngũ hiện tại. Đây quả là lựa chọn đơn giản nhất hắn sẽ có thêm thời gian thoả mãn đam mê game của hắn mà không phải lo quá nhiều về vấn đề tài chính. Nghe ra thì có vẻ khuyến rũ đó nhưng bản thân hắn lại thấy hổ thẹn, công việc nhàn hạ đánh đổi với thu nhập thấp, hắn là lập trình viên mỗi lần ra 1 sản phẩm thực sự chất lượng phải mất hàng tuần hàng tháng mà chỉ được thêm khoản thưởng? Hắn đâu có làm sale, sao tính thế được? Thế hắn thà làm freelancer ngay còn cho hắn thu nhập khá khẩm hơn. Sau sản phẩm để đời của hắn được triển khai, hắn sẽ được chia ra đâu đó tầm 5% lợi nhuận, hắn không nhìn thấy con số đó nên hắn không thấy hấp dẫn từ nó.
+
+2. Sở hữu khả năng và sự tự tin về tiếng Anh trong vòng 2-3 tháng nữa. Phải nói là mục đích học tiếng Anh của hắn đã ám ảnh suất từ hồi hắn lên đại học đến giờ khiến hắn khi đọc lại những dòng này cảm thấy nhức nhối. Để làm thương hiệu cá nhân, hắn cần giúp đỡ mọi người trên quy mô lớn chứ không chỉ là nhóm của hắn, hắn luôn muốn mình sẽ có cơ hội làm vậy. Khi chọn con đường này, hắn nhận ra hắn không có cô độc. Hắn đã bỏ ra gần 200 triệu để đầu tư vào TGM, đây sẽ là 1 trong những lựa chọn thu lại lợi nhuận từ khoản đầu tư đó triệt để nhất. Hắn có những người đi trước sẵn sàng giúp đỡ hắn và cả những lộ trình đã sẵn sàng - những điều hắn hòng mong ước có sớm hơn giờ đã trước mặt hắn chỉ đợi cơ hội sử dụng.
+
+3. Tạo ra những sản phẩm tốt nhất và thấu hiểu thị trường. Con đường của nhà đầu tư, của các khoản thu nhập thụ động mà hắn hằng mong sở hữu. Hắn chắc chắn rằng sớm muộn bản thân hắn sẽ tập trung vào con đường này, có điều ngay tại thời điểm này thì con suy nghĩ thêm đã.
+
+4. Gia nhập đội ngũ freelancer ở quy mô toàn thế giới. Hắn đang trải qua đợt dịch Covid-19, hắn biết nhu cầu freelancer của thế giới đang rất cao với mức thu nhập cũng rất hấp dẫn, chỉ có điều hắn phải có thêm một kỹ năng mà hắn chưa có để có được mức giá đó, suy cho cùng thì cũng đáng để lưu tâm.
+
+5. Cải thiện thu nhập. Trong quãng thời gian hiện tại hắn đơn giản là muốn có càng nhiều tiền càng tốt vì biết thị trường Crypto đang trong đà gia tốc, hoặc sắp kết thúc. Nhưng đó không phải là lý do chính, lý do chính là bản năng của một kẻ làm thuê trong hắn sẽ luôn bị hấp dẫn bởi những công việc trong tầm với của hắn mà có mức thu nhập hấp dẫn hơn.
