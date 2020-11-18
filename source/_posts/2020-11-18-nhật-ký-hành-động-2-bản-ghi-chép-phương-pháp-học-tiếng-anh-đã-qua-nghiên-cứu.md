@@ -15,7 +15,7 @@ categories:
 
 **Đặc điểm học:** "Phải ôn tập thường xuyên ko thì sẽ quên".
 Làm gì?
-
+<!-- more -->
 **Phương pháp nâng cao động lực:**
 
 * Hình dung tương lai
