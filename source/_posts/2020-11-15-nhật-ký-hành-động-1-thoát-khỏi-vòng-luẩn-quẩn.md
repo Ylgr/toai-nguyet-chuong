@@ -2,7 +2,7 @@
 layout: blog
 title: "Nhật ký hành động 1: Thoát khỏi vòng rối loạn luẩn quẩn trong tâm trí"
 date: 2020-11-15T19:09:30.071Z
-top_image: /images/uploads/note1.png
+top_image: /images/uploads/59980531_p0.png
 tags:
   - nhật ký
   - tiếng anh
