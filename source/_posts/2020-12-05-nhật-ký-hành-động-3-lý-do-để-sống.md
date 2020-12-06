@@ -72,4 +72,3 @@ Như vậy thì:
 Trong tình trạng hiện tại, để đạt được Ikigai, tôi cần chấp nhận kéo dài khuân khổ những vấn đề trên. Tôi sẽ trở thành chuyên gia Công nghệ.
 
 Ikigai của mình là chuyên gia công nghệ.
-Để 
