@@ -9,7 +9,7 @@ tags:
   - chu kỳ phân rã
   - thế giới đổi cực
 categories:
-  - Nhận thức
+  - Nhận thức
 ---
 # 1. Câu chuyện của về những đồng tiền xấu
 
