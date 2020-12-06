@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Nhật ký hành động 3: Lý do để sống."
+title: "Nhật ký hành động 3: Ikigai của mình là chuyên gia công nghệ."
 date: 2020-12-05T15:49:25.541Z
 top_image: /images/uploads/superstar_mercy.png
 tags:
@@ -20,30 +20,56 @@ Sau 1 ngày nghiên cứu về Ikigai và hoàn thành bài viết đầu tiên 
 
 Khởi đầu của Ikigai là câu trả lời của 4 câu hỏi căn bản:
 
-\- Bạn yêu thích điều gì? 
+\- Bạn yêu thích điều gì? <sub><sup>1</sup></sub>
 
-  + Tìm hiểu và sử dụng thành thạo các công nghệ.
+* Nghiên cứu công nghệ.
+* Chơi game.
+* Mơ mộng.
+* Phát triển bản thân.
+* Làm giàu.
+* Có nhóm bạn thân thuộc.
+* Có người bạn đời vừa ý.
+* Hiểu biết.
+* Cống hiến.
 
-  + Chơi game, mơ mộng.
+\- Bạn giỏi trong lĩnh vực nào? <sub><sup>2</sup></sub>
 
-  + Các đề tài về phát triển bản thân.
+* Lập trình: Backend, Blockchain.
+* Nghiên cứu công nghệ. 
+* Thiết kế hệ thống.
+* Kiến thức khác: Dinh dưỡng, sức khỏe, tài chính.
 
-  + Kiếm tiền.
+\- Thế giới cần gì từ bạn? <sub><sup>3</sup></sub>
 
-\- Bạn giỏi trong lĩnh vực nào?
+* Mở đường cho thế hệ tiếp theo của gia đình có cuộc sống tốt đẹp hơn.
+* Phát triển hệ thống tầm cỡ.
+* Dẫn dắt thế hệ đi sau.
+* Truyền lại kiến thức.
+* Trở thành nguồn cảm hứng.
 
-  + Lập trình: Backend, Blockchain.
+\- Bạn được người khác trả tiền để làm việc gì? <sub><sup>4</sup></sub>
 
-  + Nghiên cứu tài liệu. 
+* Lập trình.
+* Thiết kế hệ thống.
 
-  + Thiết kế hệ thống.
+Sau khi đã liệt kê tất cả những thứ bất chợt xuất hiện trong đầu, ứng vào sơ đồ Ikigai, mình sẽ có:
 
-\- Thế giới cần gì từ bạn?
+Từ 1 và 2 => Tôi có **đam mê** nghiên cứu công nghệ.
 
-  + Ở hướng gia đình: Trở thành trụ cột của thế hệ hiện tại.
+Từ 1 và 3 => Tôi có **sứ mệnh** làm giàu và cống hiến.
 
-  + Ở hướng xã hội: Phát triển hệ thống.
+Từ 2 và 4 => Tôi có **chuyên môn** lập trình và thiết kế các hệ thống.
 
-\- Bạn được người khác trả tiền để làm việc gì?
+Từ 3 và 4 => Tôi có **công việc** phát triển hệ thống.
 
-  + Dành thời gian: Phân tích thiết kế và lập trình hệ thống.
+Như vậy thì:
+
+* Việc nghiên cứu công nghệ có thể mang lại sự phấn khởi nhưng nghèo khó.
+* Chuyện lập trình và thiết kế hệ thống mang lại sự tự hào và thoải mái nhưng cảm giác vô định.
+* Việc phát triển hệ thống mang lại sự thoải mái nhưng trống trải.
+* Nếu chỉ lập trình thì mang lại cảm giác không được hữu ích gì cho đời.
+
+Trong tình trạng hiện tại, để đạt được Ikigai, tôi cần chấp nhận kéo dài khuân khổ những vấn đề trên. Tôi sẽ trở thành chuyên gia Công nghệ.
+
+Ikigai của mình là chuyên gia công nghệ.
+Để 
