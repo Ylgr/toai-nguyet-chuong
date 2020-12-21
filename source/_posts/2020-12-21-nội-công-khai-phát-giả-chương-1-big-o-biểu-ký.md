@@ -17,3 +17,7 @@ Seri này sẽ nói về những kiến thức hành trang của Lập trình vi
 \    "Kẻ mạnh không tự nhiên sinh ra mà phải trải qua rèn luyện gian khổ để đạt nội công thâm hậu và nội công trong giới lập trình là kỹ năng sử dụng thành thục những kỹ thuật căn bản để xây dựng và vận hành những cỗ máy khổng lồ."
 
 <!-- more -->
+
+1. Định nghĩa
+
+Big O (Theta O, Omega O) là công thức tính thời gian chạy của thuật toán, trong bài toán thực tế các trường hợp có thể xảy ra với Big O bao gồm: O (log N), O (N log N), O (N), O(N²) và 0(2^n).
